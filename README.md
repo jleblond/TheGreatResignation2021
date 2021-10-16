@@ -3,9 +3,9 @@
 Data Visualization work made with Microsoft PowerPoint, Tableau Desktop and Microsoft Excel
 
 
-![US Quit Rates significantly increased since May 2021](https://github.com/jleblond/TheGreatResignation2021/blob/main/img/Slide2.jpeg)
-![55% of works consider leaving their job. Flexibility is cited as the primary reason.](https://github.com/jleblond/TheGreatResignation2021/blob/main/img/Slide3.jpeg)
-![US Quit Rates by Industry](https://github.com/jleblond/TheGreatResignation2021/blob/main/img/Slide4.jpeg)
+![US Quit Rates significantly increased since May 2021](https://github.com/jleblond/TheGreatResignation2021/blob/main/img/Slide2.png)
+![55% of works consider leaving their job. Flexibility is cited as the primary reason.](https://github.com/jleblond/TheGreatResignation2021/blob/main/img/Slide3.png)
+![US Quit Rates by Industry](https://github.com/jleblond/TheGreatResignation2021/blob/main/img/Slide4.png)
 
 ## Transformed datasets:
 * https://github.com/jleblond/TheGreatResignation2021/blob/main/project_dataset.xlsx
